@@ -122,3 +122,26 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+.checkout-form{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    float: right;
+    width: 65%;
+    margin-left: 180px;
+}
+.checkout-form  .input-group{
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+#checkout-area{
+    display: none;
+}
+.checkout-form .inp-style{
+    margin: 0 10px;
+    padding: 0 10px;
+}
+#payment{
+    margin: 0 10px;
+}
